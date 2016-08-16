@@ -1,0 +1,1 @@
+ifconfig |grep 'inet addr'|grep '192.168.1' | grep -v 'grep' | awk '{print $2}'| tr -d "addr:"

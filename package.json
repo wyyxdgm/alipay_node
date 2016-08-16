@@ -1,0 +1,22 @@
+{
+  "name": "alipay_node",
+  "version": "0.0.0",
+  "description": "alipay of node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyyxdgm/alipay_node.git"
+  },
+  "keywords": [
+    "alipay",
+    "node"
+  ],
+  "author": "guimaodai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyyxdgm/alipay_node/issues"
+  }
+}
